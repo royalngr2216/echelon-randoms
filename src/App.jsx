@@ -79,7 +79,7 @@ const rounds = [
       lineupA: ["Nolongerfrnd", "Jivitesh", "Ianjaipersaud"],
       lineupB: ["Koyo7", "Ruokzyy", "Yash005"],
       scores: ["0-2","0-0","0-2"],
-      winner: "-",
+      winner: "Team 9",
     },
   ],
 },
