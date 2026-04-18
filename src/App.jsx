@@ -33,7 +33,7 @@ const rounds = [
       teamB: "Team 14",
       lineupA: ["Silverkaidog", "N0tluffy", "Pappadolqq"],
       lineupB: ["Aaakkktttoooppp", "Goingrank1", "Visionkawai17"],
-      scores: ["0-0","0-0","0-0"],
+      scores: ["0-0","2-1","0-2"],
       winner: "-",
     },
     {
@@ -42,7 +42,7 @@ const rounds = [
       teamB: "Team 13",
       lineupA: ["Shravu", "Varun9696", "Urgod"],
       lineupB: ["Immalaugh", "Nathanielsupaul", "Jyonim"],
-      scores: ["0-0","0-0","1-2"],
+      scores: ["2-0","0-0","1-2"],
       winner: "-",
     },
     {
@@ -51,7 +51,7 @@ const rounds = [
       teamB: "Team 12",
       lineupA: ["Asrahan", "Motagorilla", "Obixon"],
       lineupB: ["Legendeye10", "Repure", "Narual"],
-      scores: ["2-1","0-0","2-0"],
+      scores: ["2-1","2-0","2-0"],
       winner: "Team 5",
     },
     {
