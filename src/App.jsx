@@ -16,7 +16,7 @@ const rounds = [
       lineupA: ["Zyphren", "Suzu1", "Jack2sparrow"],
       lineupB: ["Needluck", "Zexterr", "RoyalNGR"],
       scores: ["2-0","2-0","0-2"],
-      winner: "-",
+      winner: "Team 1",
     },
     {
       id: 2,
@@ -24,8 +24,8 @@ const rounds = [
       teamB: "Team 15",
       lineupA: ["Sachinrathore1", "Inbaa", "Topscammer"],
       lineupB: ["Venuus", "Krubsiu", "Atharvi"],
-      scores: ["2-0","0-2","0-0"],
-      winner: "-",
+      scores: ["2-0","0-2","2-0"],
+      winner: "Team 2",
     },
     {
       id: 3,
@@ -60,7 +60,7 @@ const rounds = [
       teamB: "Team 11",
       lineupA: ["Madhavxdark", "Zkk100", "Clousee"],
       lineupB: ["Grimincent", "Nottanyaa", "Iknowyou"],
-      scores: ["0-0","0-0","0-0"],
+      scores: ["0-0","0-0","0-2"],
       winner: "-",
     },
     {
@@ -69,8 +69,8 @@ const rounds = [
       teamB: "Team 10",
       lineupA: ["Azure138", "The_99", "Tgbnamish"],
       lineupB: ["Tenshicat", "Lokigodofchaos", "REDBRO"],
-      scores: ["2-0","0-2","0-0"],
-      winner: "-",
+      scores: ["2-0","0-2","0-2"],
+      winner: "Team 10",
     },
     {
       id: 8,
