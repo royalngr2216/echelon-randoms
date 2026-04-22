@@ -42,8 +42,8 @@ const rounds = [
       teamB: "Team 13",
       lineupA: ["Shravu", "Varun9696", "Urgod"],
       lineupB: ["Immalaugh", "Nathanielsupaul", "Jyonim"],
-      scores: ["2-0","0-0","1-2"],
-      winner: "-",
+      scores: ["2-0","0-2","1-2"],
+      winner: "Team 13",
     },
     {
       id: 5,
