@@ -90,7 +90,7 @@ const rounds = [
       { id: 1, teamA: "Team 1", teamB: "Team 14", lineupA:["Suzu1","Jack2sparrow","Zyphren"], lineupB:["Visionkawai17","Goingrank1","Aaakkktttoooppp"], scores:["0-0","0-2","0-2"], winner:"Team 14" },
       { id: 2, teamA: "Team 2", teamB: "Team 13", lineupA:["Sachinrathore","Topscammer","Inbaa"], lineupB:["Immalaugh","Jyonim","Nathanielsupaul"], scores:["2-0","2-0","2-0"], winner:"Team 2" },
 
-      { id: 3, teamA: "Team 5", teamB: "Team 11", lineupA:["Asrahan","Motagorilla","Obxion"], lineupB:["Danger","Iknowyou","Nottanya"], scores:["0-0","2-0","2-0"], winner:"Team 5" },
+      { id: 3, teamA: "Team 5", teamB: "Team 11", lineupA:["Asrahan","Motagorilla","Obixon"], lineupB:["Danger","Iknowyou","Nottanya"], scores:["0-0","2-0","2-0"], winner:"Team 5" },
       { id: 4, teamA: "Team 9", teamB: "Team 10", lineupA:["Koyo7","Ruokzyy","Yash005"], lineupB:["Tensicat","Lokigodofchaos","Redbro"], scores:["0-0","2-0","2-0"], winner:"Team 9" },
     ],
   },
